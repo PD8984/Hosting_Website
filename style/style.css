@@ -67,3 +67,11 @@ h1 {
   color: #0e4f1f;
   text-decoration: none;
 }
+
+.main-nav_item a:hover{
+  color: white;
+}
+
+.main-nav_item a:active{
+  color: white;
+}
